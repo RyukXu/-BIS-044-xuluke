@@ -56,3 +56,4 @@ geom_point()+
 #生成散点图标题
 ggtitle(label = 'Quartely Tonnage Arriving From Great Britain and Northern Ireland')
 
+#-5 use by() function 95/100
